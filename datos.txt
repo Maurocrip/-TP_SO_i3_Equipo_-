@@ -1,4 +1,0 @@
-Gamma: Nombre: Tomas Apellido: Hernandez Hora: 20:15 Ip: 192.168.0.73
-
-Alfa: Nombre: Nathan Apellido: Sullivan Hora: 20:30 Ip: 192.168.0.252
-Beta: Nombre: Mauro Apellido: Racioppi Hora: 15:29 Ip: 192.168.56.1
