@@ -12,3 +12,4 @@ echo '12:47' >> beta.txt
 git add .
 git commit -m 'Datos Gamma'
 git push
+G- Primero creo un directorio donde voy a abrir el bash y hacer el git clone, despues me cambio a la ramma Racioppi, creada por Gamma. Para luego comenzar a concatenar los datos pedidos en el archivo beta.txt. Por ultimo hacer el , add, el commit y el push
