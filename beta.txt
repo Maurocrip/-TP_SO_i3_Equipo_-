@@ -1,0 +1,26 @@
+Nombre: mauro Apellido: racioppi
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::c32:4707:dfa5:8267%4
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::1878:b3cc:1210:2012%12
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.35
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+\n hora: 11:32
