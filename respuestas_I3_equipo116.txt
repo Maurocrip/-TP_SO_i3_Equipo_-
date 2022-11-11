@@ -1,3 +1,14 @@
 A- Luego de realizar la interacion nº3, nuestro main quedo con un archivo README.md, un archivo datos.txt modificado con la informacion de cada participante, y otro archivo neta.txt con la informacion del ultimo push hecho por alfa
 B-Si pudo ver todos los cambias, cambiando de ramas
 C-Para poder hacer el merge, gama debe primero hacer git clon con el link del repositorio, luego ingresar a la carpeta del repo local, luego con git branch -r ver si esta la rama a la cual hacer el merge, y finalmente ejecutar el comando git merge (nombre de la rama) para q se haga el marge. Como ultimo hacer elpush al repo de GitHub 
+D- No, quedan con los mismos datos que tenían al momento de hacer el último push. Si se desea actualizar los datos de estas dos ramas se debe hacer un 'git merge main' desde la rama Beta o Gamma, según la que se quiera actualizar
+E- El mayor problema que tuvimos al hacer los merge, fue que en un principio intentamos hacerlo desde un repositorio remoto, y se nos combinaban las ramas. Luego nos dimos cuenta de que primero debíamos hacer un git clone, para poder hacer el merge correctamente
+F- git clone https://github.com/Maurocrip/-TP_SO_i3
+git branch Racioppi
+git checkout Racioppi
+ echo 'Tomas Hernandez' >> beta.txt
+ipconfig >> beta.txt
+echo '12:47' >> beta.txt
+git add .
+git commit -m 'Datos Gamma'
+git push
